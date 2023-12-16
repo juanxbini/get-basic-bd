@@ -11,7 +11,7 @@ Este proyecto es una aplicación simple que explora la estructura básica de las
 ## Instrucciones de Configuración
 
 1. Clona este repositorio: `git clone https://github.com/juanxbini/get-basic-bd/  `
-2. Instala las dependencias: `npm install`
+2. Instala las dependencias: `npm install express mysql`
 3. Configura la conexión a la base de datos en `config/db.js`
 4. Ejecuta la aplicación: `node api/app.js`
 
